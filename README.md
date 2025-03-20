@@ -1,2 +1,2 @@
-# Nimap_Task_Project
-Nimap Infotech task project for Category-Product CRUD operation using Spring-Boot
+# Spring Boot Project
+ project which contains CURD CRUD operation using Spring-Boot
